@@ -88,15 +88,20 @@ technologies to improve my craft.
         <img src="https://raw.githubusercontent.com/prisma/prisma/main/docs/prisma-logo.svg" width="36" height="36"
             alt="Prisma" />
     </a>
-    <!-- Supabase -->
-    <a href="https://supabase.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-light-.svg" width="36"
-            height="36" alt="Supabase" />
-    </a>
-    <!-- Bun.js -->
-    <a href="https://bun.sh" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/oven-sh/bun/main/logo.svg" width="36" height="36" alt="Bun.js" />
-    </a>
+    <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/prisma/presskit/main/logo/svg/prisma.svg"
+         width="36" height="36" alt="Prisma" />
+  </a>
+  <!-- Supabase -->
+  <a href="https://supabase.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/supabase/press/master/logos/supabase-logo.svg"
+         width="36" height="36" alt="Supabase" />
+  </a>
+  <!-- Bun.js -->
+  <a href="https://bun.sh" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/oven-sh/bun/main/logo.svg"
+         width="36" height="36" alt="Bun.js" />
+  </a>
 
 </p>
 </p>
