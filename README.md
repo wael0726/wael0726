@@ -65,6 +65,10 @@ technologies to improve my craft.
 
 **Backend & Databases:**
 <p align="left">
+    <a href="https://bun.sh" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bun.svg"
+         width="36" height="36" alt="Bun.js" />
+  </a>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
             width="36" height="36" alt="NodeJS" /></a>
@@ -91,11 +95,6 @@ technologies to improve my craft.
   <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/prisma.svg"
          width="36" height="36" alt="Prisma" />
-  </a>
-  <!-- Bun.js -->
-  <a href="https://bun.sh" target="_blank" rel="noreferrer">
-    <img src="https://cdnlogo.com/logos/b/54/bun.svg"
-         width="36" height="36" alt="Bun.js" />
   </a>
 
 </p>
