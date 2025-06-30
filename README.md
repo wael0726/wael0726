@@ -102,10 +102,12 @@ technologies to improve my craft.
 
 **DevOps & Cloud:**
 <p align="left">
-    <a href="https://vercel.com" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/V/vercel-logo-F748E8E916-seeklogo.com.png"
+    <!-- Vercel -->
+<a href="https://vercel.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vercel.svg"
        width="36" height="36" alt="Vercel" />
 </a>
+
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="36" height="36"
             alt="AWS" /></a>
