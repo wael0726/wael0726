@@ -75,9 +75,9 @@ technologies to improve my craft.
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" width="36" height="36"
         alt="C#" /></a>
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img
-        src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="36" height="36"
-        alt="SQL" /></a>
+ <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36" height="36" alt="SQL" />
+</a>
 </p>
 
 **Backend & Databases:**
