@@ -1,5 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm
-Wael!
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Wael!
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=wmbennabi05&label=Profile%20views&color=0e75b6&style=flat"
@@ -84,23 +83,17 @@ technologies to improve my craft.
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
             width="36" height="36" alt="Firebase" /></a>
-    <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/prisma/prisma/main/docs/prisma-logo.svg" width="36" height="36"
-            alt="Prisma" />
     </a>
     <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/prisma/presskit/main/logo/svg/prisma.svg"
-         width="36" height="36" alt="Prisma" />
+    <img src="https://cdnlogo.com/logos/prisma.svg" width="36" height="36" alt="Prisma" />
   </a>
   <!-- Supabase -->
   <a href="https://supabase.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/supabase/press/master/logos/supabase-logo.svg"
-         width="36" height="36" alt="Supabase" />
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="36" height="36" alt="Supabase" />
   </a>
   <!-- Bun.js -->
   <a href="https://bun.sh" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/oven-sh/bun/main/logo.svg"
-         width="36" height="36" alt="Bun.js" />
+    <img src="https://cdn.jsdelivr.net/gh/oven-sh/bun/logo.svg" width="36" height="36" alt="Bun.js" />
   </a>
 
 </p>
