@@ -94,7 +94,7 @@ technologies to improve my craft.
   </a>
   <!-- Bun.js -->
   <a href="https://bun.sh" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bun.svg"
+    <img src="https://cdnlogo.com/logos/b/54/bun.svg"
          width="36" height="36" alt="Bun.js" />
   </a>
 
