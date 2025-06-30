@@ -107,7 +107,6 @@ technologies to improve my craft.
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vercel.svg"
        width="36" height="36" alt="Vercel" />
 </a>
-
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="36" height="36"
             alt="AWS" /></a>
