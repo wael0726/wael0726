@@ -84,16 +84,18 @@ technologies to improve my craft.
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
             width="36" height="36" alt="Firebase" /></a>
     </a>
-    <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
-    <img src="https://cdnlogo.com/logos/prisma.svg" width="36" height="36" alt="Prisma" />
-  </a>
   <!-- Supabase -->
   <a href="https://supabase.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="36" height="36" alt="Supabase" />
   </a>
+  <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/prisma.svg"
+         width="36" height="36" alt="Prisma" />
+  </a>
   <!-- Bun.js -->
   <a href="https://bun.sh" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/oven-sh/bun/logo.svg" width="36" height="36" alt="Bun.js" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bun.svg"
+         width="36" height="36" alt="Bun.js" />
   </a>
 
 </p>
