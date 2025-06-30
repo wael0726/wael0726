@@ -1,10 +1,14 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Wael!
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm
+Wael!
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=wmbennabi05&label=Profile%20views&color=0e75b6&style=flat" alt="wmbennabi05" />
+    <img src="https://komarev.com/ghpvc/?username=wmbennabi05&label=Profile%20views&color=0e75b6&style=flat"
+        alt="wmbennabi05" />
 </p>
 
-A **Full Stack Developer** based in **Montreal, Canada**, passionate about building efficient and scalable web applications. I also explore the world of video games development. I'm 20 years old and constantly learning new technologies to improve my craft.
+A **Full Stack Developer** based in **Montreal, Canada**, passionate about building efficient and scalable web
+applications. I also explore the world of video games development. I'm 20 years old and constantly learning new
+technologies to improve my craft.
 
 ---
 
@@ -20,59 +24,137 @@ A **Full Stack Developer** based in **Montreal, Canada**, passionate about build
 
 ---
 
+
+
 ### 🛠️ My Tech Stack
 
-**Frontend:**  
+**Frontend:**
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
-  <a href="https://ui.shadcn.com" target="_blank" rel="noreferrer"><img src="https://ui.shadcn.com/favicon.ico" width="36" height="36" alt="shadcn/ui" /></a>
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" width="36" height="36" alt="Framer Motion" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+            width="36" height="36" alt="JavaScript" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+            width="36" height="36" alt="TypeScript" /></a>
+    <a href="https://react.dev" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+            width="36" height="36" alt="React" /></a>
+    <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
+            width="36" height="36" alt="Next.js" /></a>
+    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+            width="36" height="36" alt="Tailwind CSS" /></a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
+            width="36" height="36" alt="Bootstrap" /></a>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
+            width="36" height="36" alt="Redux" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+            width="36" height="36" alt="HTML5" /></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+            width="36" height="36" alt="CSS3" /></a>
+    <a href="https://ui.shadcn.com" target="_blank" rel="noreferrer"><img src="https://ui.shadcn.com/favicon.ico"
+            width="36" height="36" alt="shadcn/ui" /></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
+            width="36" height="36" alt="Figma" /></a>
 </p>
 
-**Backend & Databases:**  
+**Backend & Databases:**
 <p align="left">
-  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/prisma-logo.svg" width="36" height="36" alt="Prisma" /></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="36" height="36" alt="Express.js" /></a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" width="36" height="36" alt="GraphQL" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="36" height="36" alt="Node.js" /></a>
-  <a href="https://bun.sh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/oven-sh/bun/main/logo.svg" width="36" height="36" alt="Bun.js" /></a>
-  <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://supabase.io/new-logo.svg" width="36" height="36" alt="Supabase" /></a>
-  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" width="36" height="36" alt="Firebase" /></a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+            width="36" height="36" alt="NodeJS" /></a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+            width="36" height="36" alt="Express" /></a>
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"
+            width="36" height="36" alt="GraphQL" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+            width="36" height="36" alt="MySQL" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+            width="36" height="36" alt="PostgreSQL" /></a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
+            width="36" height="36" alt="Firebase" /></a>
+    <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/prisma/prisma/main/docs/prisma-logo.svg" width="36" height="36"
+            alt="Prisma" />
+    </a>
+    <!-- Supabase -->
+    <a href="https://supabase.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-light-.svg" width="36"
+            height="36" alt="Supabase" />
+    </a>
+    <!-- Bun.js -->
+    <a href="https://bun.sh" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/oven-sh/bun/main/logo.svg" width="36" height="36" alt="Bun.js" />
+    </a>
+
+</p>
 </p>
 
-**DevOps, Cloud & Tools:**  
+**DevOps, Cloud & Tools:**
 <p align="left">
-  <a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/vercel/ui/static/logo.svg" width="36" height="36" alt="Vercel" /></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="36" height="36" alt="AWS" /></a>
+    <a href="https://vercel.com" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/vercel/vercel/main/packages/vercel/ui/static/logo.svg" width="36"
+            height="36" alt="Vercel" /></a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="36" height="36"
+            alt="AWS" /></a>
 </p>
 
-**Development Tools:**  
+**Development Tools:**
 <p align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="36" height="36" alt="Git" /></a>
-  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/favicons/favicon.svg" width="36" height="36" alt="GitHub" /></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a>
-  <a href="https://cursor.so" target="_blank" rel="noreferrer"><img src="https://cursor.so/favicon.ico" width="36" height="36" alt="Cursor" /></a>
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" width="36" height="36" alt="IntelliJ IDEA" /></a>
-  <a href="https://unity.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" width="36" height="36" alt="Unity" /></a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png" width="36" height="36" alt="Android Studio" /></a>
+    <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="36" height="36"
+            alt="Git" /></a>
+    <a href="https://github.com" target="_blank" rel="noreferrer"><img
+            src="https://github.githubassets.com/favicons/favicon.svg" width="36" height="36" alt="GitHub" /></a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"><img
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36"
+            alt="Postman" /></a>
+    <a href="https://cursor.so" target="_blank" rel="noreferrer"><img src="https://cursor.so/favicon.ico" width="36"
+            height="36" alt="Cursor" /></a>
+    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"
+            width="36" height="36" alt="VS Code" /></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png"
+            width="36" height="36" alt="IntelliJ IDEA" /></a>
+    <a href="https://unity.com" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" width="36" height="36"
+            alt="Unity" /></a>
+    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png"
+            width="36" height="36" alt="Android Studio" /></a>
 </p>
 
-**Design Tools:**  
+**Design Tools:**
 <p align="left">
-  <a href="https://figma.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" width="36" height="36" alt="Figma" /></a>
-  <a href="https://canva.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Canva_Logo.svg" width="36" height="36" alt="Canva" /></a>
+    <a href="https://figma.com" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" width="36" height="36"
+            alt="Figma" /></a>
+    <a href="https://canva.com" target="_blank" rel="noreferrer"><img
+            src="https://upload.wikimedia.org/wikipedia/commons/3/31/Canva_Logo.svg" width="36" height="36"
+            alt="Canva" /></a>
 </p>
 
-**Mobile Technologies:**  
+**Mobile Technologies:**
 <p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" width="36" height="36" alt="Dart" /></a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" width="36" height="36" alt="Kotlin" /></a>
+    <a href="https://dart.dev" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" width="36" height="36"
+            alt="Dart" /></a>
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" width="36" height="36"
+            alt="Kotlin" /></a>
 </p>
 
 ---
@@ -80,16 +162,17 @@ A **Full Stack Developer** based in **Montreal, Canada**, passionate about build
 ### 📌 Pinned Repositories
 
 <!-- Tu peux remplacer par tes vrais projets -->
-- [Awesome Web Projects](https://github.com/wmbennabi05/awesome-web-projects) - Collection of my best web apps  
-- [GameDev Experiments](https://github.com/wmbennabi05/gamedev-experiments) - Some game projects I worked on  
-- [Portfolio Website](https://github.com/wmbennabi05/portfolio) - My personal portfolio source code  
+- [Awesome Web Projects](https://github.com/wmbennabi05/awesome-web-projects) - Collection of my best web apps
+- [GameDev Experiments](https://github.com/wmbennabi05/gamedev-experiments) - Some game projects I worked on
+- [Portfolio Website](https://github.com/wmbennabi05/portfolio) - My personal portfolio source code
 
 ---
 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wmbennabi05&show_icons=true&theme=radical&count_private=true" alt="Wael's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wmbennabi05&show_icons=true&theme=radical&count_private=true"
+        alt="Wael's GitHub Stats" />
 </p>
 
 ---
@@ -98,16 +181,15 @@ A **Full Stack Developer** based in **Montreal, Canada**, passionate about build
 
 | Contribution Type | Percentage |
 |-------------------|------------|
-| Code review       | 0%         |
-| Issues            | 2%         |
-| Pull requests     | 98%        |
-| Commits           | —          |
+| Code review | 0% |
+| Issues | 2% |
+| Pull requests | 98% |
+| Commits | — |
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmbennabi05&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmbennabi05&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 *Thanks for visiting my profile! Feel free to reach out if you want to collaborate or chat about web development.*
-
