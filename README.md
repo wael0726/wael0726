@@ -63,6 +63,23 @@ technologies to improve my craft.
             width="36" height="36" alt="Figma" /></a>
 </p>
 
+### 🔧 Other Technologies
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="36" height="36"
+        alt="Python" /></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="36" height="36"
+        alt="Java" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" width="36" height="36"
+        alt="C#" /></a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img
+        src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="36" height="36"
+        alt="SQL" /></a>
+</p>
+
 **Backend & Databases:**
 <p align="left">
     <a href="https://bun.sh" target="_blank" rel="noreferrer">
