@@ -17,9 +17,6 @@ technologies to improve my craft.
 * 🖥️ My Portfolio: **[portfoliowael.vercel.app](https://portfoliowael.vercel.app)**
 * ✉️ Get in Touch: **[wmbennabi05@gmail.com](mailto:wmbennabi05@gmail.com)**
 * 🧠 Currently learning: **Electron.js** for cross-platform desktop applications.
-* 🤝 Open to collaborating on: Impactful **MERN stack** or **Next.js** projects.
-* 💬 Ask me about: **React, Node.js, Next.js, JavaScript, Full Stack Development**
-* ⚡ Fun fact: I believe good code is like a good joke — it doesn't need an explanation!
 
 ---
 
@@ -75,9 +72,6 @@ technologies to improve my craft.
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" width="36" height="36"
         alt="C#" /></a>
- <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36" height="36" alt="SQL" />
-</a>
 </p>
 
 **Backend & Databases:**
