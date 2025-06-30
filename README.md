@@ -143,8 +143,8 @@ technologies to improve my craft.
     <a href="https://figma.com" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" width="36" height="36"
             alt="Figma" /></a>
-    <a href="https://www.canva.com" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729B-seeklogo.com.png"
+    <a href="https://canva.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"
        width="36" height="36" alt="Canva" />
 </a>
 
