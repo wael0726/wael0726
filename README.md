@@ -11,12 +11,12 @@ technologies to improve my craft.
 
 ---
 
-### 🚀 About Me
+### About Me
 
-* 🌍 Based in **Canada**
-* 🖥️ My Portfolio: **[portfoliowael.vercel.app](https://portfoliowael.vercel.app)**
-* ✉️ Get in Touch: **[wmbennabi05@gmail.com](mailto:wmbennabi05@gmail.com)**
-* 🧠 Currently learning: **Electron.js** for cross-platform desktop applications.
+* Based in **Canada**
+* My Portfolio: **[portfoliowael.vercel.app](https://portfoliowael.vercel.app)**
+* Get in Touch: **[wmbennabi05@gmail.com](mailto:wmbennabi05@gmail.com)**
+* Currently learning: **Electron.js** for cross-platform desktop applications.
 
 ---
 
