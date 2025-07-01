@@ -6,7 +6,7 @@
 </p>
 
 A **Full Stack Developer** based in **Montreal, Canada**, passionate about building efficient and scalable web
-applications. I also explore the world of video games development. I'm 20 years old and constantly learning new
+applications. I also explore the world of video games development and I'm constantly learning new
 technologies to improve my craft.
 
 ---
