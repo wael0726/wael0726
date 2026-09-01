@@ -6,6 +6,6 @@
 
 * My Portfolio: **[portfoliowael.vercel.app](https://portfoliowael.vercel.app)**
 * Get in Touch: **[wmbennabi05@gmail.com](mailto:wmbennabi05@gmail.com)**
-* Linkedin :    **[Linkedin](https://www.linkedin.com/in/waelmalekbennabi/)**
+* Linkedin :    **[in/WaelMalekBennabi/](https://www.linkedin.com/in/waelmalekbennabi/)**
 
 ---
